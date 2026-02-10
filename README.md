@@ -3,15 +3,15 @@ About turm-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/turm-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/kabouzeid/turm
+Home: https://github.com/karimknaebel/turm
 
 Package license: MIT
 
 Summary: TUI for the Slurm Workload Manager
 
-Development: https://github.com/kabouzeid/turm
+Development: https://github.com/karimknaebel/turm
 
-Documentation: https://github.com/kabouzeid/turm
+Documentation: https://github.com/karimknaebel/turm
 
 A text-based user interface (TUI) for the Slurm Workload Manager, which
 provides a convenient way to manage your cluster jobs.
