@@ -6,7 +6,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://github.com/kabouzeid/turm/archive/refs/tags/v${{ version }}.tar.gz
+  url: https://github.com/karimknaebel/turm/archive/refs/tags/v${{ version }}.tar.gz
   sha256: 15b0c3d4ec801a5bba16538e82e85bf6a8e32ee9f757842d574db282484162b3
 
 build:
@@ -57,7 +57,7 @@ tests:
   - script: turm --help
 
 about:
-  homepage: https://github.com/kabouzeid/turm
+  homepage: https://github.com/karimknaebel/turm
   summary: TUI for the Slurm Workload Manager
   description: |
     A text-based user interface (TUI) for the Slurm Workload Manager, which
@@ -65,8 +65,8 @@ about:
   license: MIT
   license_file:
     - LICENSE
-  documentation: https://github.com/kabouzeid/turm
-  repository: https://github.com/kabouzeid/turm
+  documentation: https://github.com/karimknaebel/turm
+  repository: https://github.com/karimknaebel/turm
 
 extra:
   recipe-maintainers:
