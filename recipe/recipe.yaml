@@ -1,5 +1,5 @@
 context:
-  version: "0.14.0"
+  version: "0.15.0"
 
 package:
   name: turm
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/karimknaebel/turm/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 6f1404336ba91be8b16a17f35cc3d24bce29538c1120005787d6abdb41d01536
+  sha256: 5776238606645f5658df430659568534ef850add30c51e1b24dcf234f7cc2cca
 
 build:
   number: 0
